@@ -1,0 +1,22 @@
+{
+  "name": "nature_tour",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhoomij/nature_tour.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhoomij/nature_tour/issues"
+  },
+  "homepage": "https://github.com/bhoomij/nature_tour#readme",
+  "dependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
